@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-> Um site de codificação e decodificação de mensagens e textos.
+> Um site simples e intuitivo para codificação e decodificação de mensagens e textos.
 
 🎯 **[Clique aqui para testar a versão online!](https://codi-texto.vercel.app/)**
 
@@ -14,14 +14,15 @@
 
 ## 💻 Sobre o Projeto
 
-Este projeto foi desenvolvido para praticar a manipulação de arrays, ele foi inspirado no invertexto, porém bem mais simplificado, e com uma criptografia simples única!
+Este projeto foi desenvolvido para praticar a manipulação de arrays e strings em JavaScript. Ele foi inspirado na famosa plataforma *Invertexto*, porém de forma bem mais simplificada e com um diferencial divertido: a implementação de um método de criptografia simples e único chamado "nonês"!
+
 ---
 
 ## 🧠 Principais Funcionalidades
 
-* 🎲 **Codificação de textos:** Algoritmo que codifica os textos para a codificação escolhida(apenas letras minúsculas).
-* 🔄 **Decodificação de textos:** Algoritmo que decodifica código binário, código morse e nonês(criptografia simples pouco conhecida)
-* 📱 **Layout Responsivo:** Otimizado para utilizar tanto no computador quanto no celular.
+* 🎲 **Codificação de textos:** Algoritmo que transforma textos legíveis na codificação escolhida (suporta apenas letras minúsculas).
+* 🔄 **Decodificação de textos:** Algoritmo que decodifica código binário, código morse e o dialeto "nonês" (uma criptografia simples e personalizada).
+* 📱 **Layout Responsivo:** Otimizado para visualização e uso tanto no computador quanto no celular.
 
 ---
 
@@ -29,7 +30,7 @@ Este projeto foi desenvolvido para praticar a manipulação de arrays, ele foi i
 
 * **Estruturação:** [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 * **Estilização:** [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* **Lógica do Jogo:** [JavaScript (ES6)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+* **Lógica da Aplicação:** [JavaScript (ES6)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 * **Hospedagem & Deploy:** [Vercel](https://vercel.com/)
 
 ---
