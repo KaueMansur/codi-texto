@@ -71,6 +71,7 @@ option{
 body{
     height: 100vh;
     padding-inline: 50px;
+    padding-top: 70px;
 }
 
 .container{
